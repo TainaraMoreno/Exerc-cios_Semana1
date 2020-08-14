@@ -1,4 +1,4 @@
-# Exerc-cios_Semana1
+# Exercicios_Semana1
 
 # Biblioteca 
 
