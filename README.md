@@ -2,7 +2,7 @@
 
 # Biblioteca 
 
-![Biblioteca](C:\Users\Usuário Groove\Desktop\Reprograma\Exercicios_Semana1\img\biblioteca.gif)
+![Biblioteca](https://github.com/TainaraMoreno/Exercicios_Semana1/blob/master/img/biblioteca.gif)
 
 ## O que são Bibliotecas?  
 Uma biblioteca é uma coleção de funções e definições escritas para um propósito definido.
@@ -11,7 +11,7 @@ Se você tiver que fazer um trabalho de matemática, por exemplo, poderá ir at�
 Em programação, a biblioteca possui a mesma função. Desenvolvedores disponibilizam bibliotecas que possuem muitas funções prontas. Assim, outros programadores podem utilizá-las, permitindo que o desenvolvimento seja mais fácil e rápido.
 
 
-![Ajuda](C:\Users\Usuário Groove\Desktop\Reprograma\Exercicios_Semana1\img\tumblr_ld2aiaJmJG1qbtguuo1_500.gif)
+![Ajuda](https://github.com/TainaraMoreno/Exercicios_Semana1/blob/master/img/tumblr_ld2aiaJmJG1qbtguuo1_500.gif)
 
 ## Por que utilizar Bibliotecas? 
 No mundo OpenSource é extremamente comum um programador, ao precisar resolver determinado problema, se utilizar de uma biblioteca escrita por outro programador. Isso pode ser extremamente vantajoso, pois reduz a necessidade de criar códigos (que já foram criados por outras pessoas) mas também pode ser perigoso, pois você pode acabar optando por uma biblioteca mal implementada (ou até mesmo maliciosa) e acabar tendo grandes dores de cabeça. Por isso, evite utilizar qualquer biblioteca encontrada pela internet sem antes pesquisar sobre esta e (em casos de tratamento de dados sensíveis) realizar uma auditoria pelo código. Pense em bibliotecas como plugins para seu navegador, você não instala qualquer plugin sem antes pesquisar e conhecê-lo, uma vez que este pode conter códigos maliciosos que terão acesso direto a seus dados, contas e senhas.
@@ -37,7 +37,7 @@ As funções do framework têm uma grande variedade de parâmetros, garantindo a
 Aliás, vale ressaltar que a integração entre as diferentes funções dessa ferramenta é uma de suas principais características. Isso significa que as ferramentas são feitas de forma aberta, para que se adaptem a uma grande quantidade de situações. Os pontos providos pelo framework são chamados de frozen spots ou hook points. Já a instanciação e a personalização criadas pelo desenvolvedor são denominadas de host spots.
 
 ## Quando NÃO usar um framework
-![Stop](C:\Users\Usuário Groove\Desktop\Reprograma\Exercicios_Semana1\img\stop.png)
+![Stop](https://github.com/TainaraMoreno/Exercicios_Semana1/blob/master/img/stop.png)
 
 Não é recomendo o uso de um Framework a programadores iniciantes, uma vez que, independente da linguagem que você esteja aprendendo, é altamente recomendável que você tenha uma base sólida da linguagem em questão, somente para depois aprender a usar essa nova ferramenta.
 Muitas vezes, frameworks podem engessar o seu código, pois em alguns casos não provém flexibilidade em suas utilizações.
@@ -59,4 +59,4 @@ Biblioteca: é uma coleção de implementações de comportamentos escritos em u
 
 Framework: estrutura real, ou conceitual, que visa servir como suporte (ou guia) para a construção de algo (um produto, por exemplo). “Este algo” herdará as características desta estrutura, implementando o produto final (“algo).
 
-![Fim](C:\Users\Usuário Groove\Desktop\Reprograma\Exercicios_Semana1\img\cat.gif)
+![Fim](https://github.com/TainaraMoreno/Exercicios_Semana1/blob/master/img/cat.gif)
