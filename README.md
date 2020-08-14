@@ -60,3 +60,15 @@ Biblioteca: é uma coleção de implementações de comportamentos escritos em u
 Framework: estrutura real, ou conceitual, que visa servir como suporte (ou guia) para a construção de algo (um produto, por exemplo). “Este algo” herdará as características desta estrutura, implementando o produto final (“algo).
 
 ![Fim](https://github.com/TainaraMoreno/Exercicios_Semana1/blob/master/img/cat.gif)
+
+
+
+
+
+
+## Referências 
+https://uilblognews.com/o-que-e-framework-e-porque-eu-deveria-aprender/
+https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/
+https://gaea.com.br/entenda-o-que-e-framework/
+https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)#:~:text=Na%20ci%C3%AAncia%20da%20computa%C3%A7%C3%A3o%2C%20biblioteca,e%20dados%20de%20forma%20modular.
+
